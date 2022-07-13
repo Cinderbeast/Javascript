@@ -21,4 +21,8 @@ The Strength check is based on the following criteria:
 * The password uses Symbols
 * The length of the password is 4 or more
 * If the length of the password is 16 or more is considered to be the minimum length for good password.
+
+Live Link:
+https://cinderbeast.github.io/Javascript/
+
 ![Password Generator](https://user-images.githubusercontent.com/105569378/177228217-95906045-cf16-44e2-948a-0f0c9585eca6.png)
